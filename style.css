@@ -60,7 +60,7 @@ font-weight: bold;
   position: relative;
   margin: 0 auto;
   width: 500px;
-  margin-bottom: 50px; 
+  margin-bottom: 50px;
 }
 
 .main-graphic .chicken {
@@ -111,4 +111,9 @@ margin-bottom: -13px;
  .main-graphic h2 {
     text-align: center;
   }
+}
+
+
+.vco-slider .slider-container-mask {
+  max-height: 234px !important;
 }
