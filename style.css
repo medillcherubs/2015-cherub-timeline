@@ -114,6 +114,8 @@ margin-bottom: -13px;
 }
 
 
-.vco-slider .slider-container-mask {
+.vco-slider .slider-container-mask,
+.vco-slider .nav-previous,
+.vco-slider .nav-next {
   max-height: 234px !important;
 }
